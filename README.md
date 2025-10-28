@@ -55,10 +55,10 @@ Using basic geographic data processing and visualization techniques, an **intera
 varmekart-gruvejobb-norge/
 │
 ├── notebooks/
-│   └── 1_data_processing_varmekart.ipynb   ← Hovedanalyse / Main analysis
-├── README.md                               ← Denne filen / This file
-├── LICENSE                                 ← MIT-lisens / MIT license
-└── .gitignore                              ← Ekskludering av midlertidige filer / Temporary file exclusion
+│   └── 1_data_processing_varmekart.ipynb   ← Hovedanalyse – principal anlysis
+├── README.md                               ← This file – denne filen
+├── LICENSE                                 ← MIT-lisens - MIT license
+└── .gitignore                              ← Utlelukkelse av midlertidige filer - Exclusion of temporary files
 
 ---
 
