@@ -62,7 +62,7 @@ varmekart-gruvejobb-norge/
 ├── README.md                               ← This file – Denne filen
 ├── LICENSE                                 ← MIT-lisens - MIT license
 └── .gitignore                              ← Utelukkelse av midlertidige filer - Exclusion of temporary files
-
+```
 ---
 
 ## ⚙️ Hvordan man skal gjennomføre prosjektet – How to Execute the Project  
