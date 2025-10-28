@@ -52,13 +52,16 @@ Using basic geographic data processing and visualization techniques, an **intera
 ---
 
 ## 📁 Repositorystruktur – Repository Structure  
+📁 **Repositorystruktur - Repository structure**
+
+```bash
 varmekart-gruvejobb-norge/
 │
 ├── notebooks/
-│   └── 1_data_processing_varmekart.ipynb   ← Hovedanalyse – principal anlysis
-├── README.md                               ← This file – denne filen
+│   └── 1_data_processing_varmekart.ipynb   ← Hovedanalyse – Principal analysis
+├── README.md                               ← This file – Denne filen
 ├── LICENSE                                 ← MIT-lisens - MIT license
-└── .gitignore                              ← Utlelukkelse av midlertidige filer - Exclusion of temporary files
+└── .gitignore                              ← Utelukkelse av midlertidige filer - Exclusion of temporary files
 
 ---
 
